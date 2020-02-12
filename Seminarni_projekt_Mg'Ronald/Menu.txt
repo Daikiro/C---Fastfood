@@ -1,0 +1,11 @@
+//Zadat objednavku 	- 	1
+//Zobrazit menu 	- 	2
+//Zobrazit objednavky	- 	3
+//Vyhledat objednavku	-	4
+//Vydat objednavku	-	5
+//Odstranit objednavku	-	6
+//Vypocitat denni obrat	-	7
+//Zobrazit objednavky dle casu -8
+
+
+//Konec - 666

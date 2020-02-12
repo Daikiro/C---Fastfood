@@ -1,0 +1,12 @@
+0;Automat;666;0
+4;Tester;4646;4
+3;Lucie;9545;3
+2;Emilia;1346;2
+1;Mao;1234;1
+3;Manager;1122;3
+4;John;4842;4
+1;Lucifer;1354;1
+2;Shrek;1941;2
+1;Ginger;1217;1
+2;Hanzo;1823;2
+4;Admin;5566;4
